@@ -13,7 +13,7 @@ Globals:
 Parameters:
   Whitelist:
     Type: String
-    Default: "dev,test"
+    Default: "dev,test,preprod"
   StartSchedule:
     Type: String
     Default: "cron(0 7 * * ? *)"
